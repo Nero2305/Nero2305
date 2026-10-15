@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/Galaxy.png" alt="Galaxy Banner" width="100%" />
+</p>
+
 <h1 align="center">Aman</h1>
 
 <p align="center">
